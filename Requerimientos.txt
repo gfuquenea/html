@@ -1,0 +1,24 @@
+1. El sitio web debe contener colores, logos e imágenes acordes con la
+identidad institucional de la UNAD y de la escuela de Ciencias Básicas
+Tecnología e Ingeniería ECBTI. Para esto pueden verificar el manual
+de identidad institucional de la UNAD, el cual estará disponible en el
+Aula Virtual para su descarga, además lo pueden descargar desde el
+siguiente enlace:
+https://sig.unad.edu.co/documentos/sgc/documentos_referencia/
+manual_identidad/Manual_Identidad_Institucional.pdf
+
+4. El sitio web debe contar con las siguientes secciones:
+
+INICIO: será una (1) página web principal del sitio, debe mostrar información general sobre el OVI, los objetivos del OVI, Objetivos del curso y las temáticas al cual hace referencia y la información que los participantes del grupo consideren pertinente presentar sobre el curso para el que se construye el OVI.
+
+LECTURAS: deben ser mínimo cinco (5) Lecturas, las cuales se mostrarán como elementos de sub-ítems de menú de esta sección en páginas web o secciones diferentes. En estas se presentarán contenidos para lectura de autoría del grupo sobre la temática que han escogido para la construcción del sitio web del OVI. Estos contenidos deben contar con imágenes de apoyo, las cuales deben estar debidamente citadas tanto para las lecturas como para las imágenes que use el grupo para construir sus contenidos de lectura para el sitio, recuerde que debe usar citas acordes con la Norma APA 6 edición.
+
+MULTIMEDIA: deben ser mínimo Dos (2) páginas web en las cuales el grupo publicará contenido multimedial, audios (Podcasts) y vídeos (Videos de Youtube) de autorÌa propia de los integrantes del grupo sobre las temáticas que han escogido para la construcción del sitio web del OVI.  
+
+ACTIVIDADES: deben ser mínimo tres (3) páginas web, las cuales se mostrarán como elementos de sub-ítems de menú de esta sección. En estas se publicarán mínimo 6 actividades académicas en línea, las cuales servirán como actividades de interactivas de refuerzo que el OVI ofrecer· para sus usuarios.
+
+AUTORES: será una (1) página web en la cual el grupo publicar· la información relacionada con los Autores del OVI, para esto se debe organizar un bloque por cada estudiante que participo en la actividad donde se publique: Nombre, Código, Programa, Correo Electrónico, Usuario Skype, y Fotografía reciente y real de cada estudiante
+
+6. El sitio web debe contar con un Contador de Visitas Propio, este podrá incorporarse a través de un plugin para mostrar el número de visitas que posee el sitio web una vez este publicado en la Internet.
+
+7. El sitio web debe contar con un Módulo o Widget para la red social Twitter, donde se presentan los Feeds o Contenidos que se comparten en esta red social desde el perfil oficial de la universidad UNAD
