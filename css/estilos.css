@@ -21,9 +21,11 @@ body .background {
 
 }
 .contenedor {
-	width: 90%;
+	width: 95%;
 	max-width: 1000px;
 	margin: auto;
+	background-color: #005883 ;
+	
 }
 #particles-js {
 	width: 100%;
@@ -34,19 +36,22 @@ body .background {
 header {
  position: relative;
  height: auto;
-
+ background-color: #005883;
 
 }
 header .menu {
 	background: rgb(255,255,255,.7);
 	overflow: hidden;
+	background-color:   #005883;
 }
 header .logo {
 	color: rgba(0,0,0,.8);
 	float: left;
-	font-size: 30px;
-	line-height: 80px;
-
+	font-size: 100px;
+	line-height: 10px;
+	width: 100px;
+	padding: 0px;
+	
 }
 header nav {
 	float: right;
@@ -75,7 +80,7 @@ header nav ul li:hover {
 }
 
 header nav ul li a:hover{
-	color: #fff;
+	color:  #F0B429;
 }
 .texto {
 color: #fff;
@@ -130,3 +135,8 @@ header a {
 
 
 }
+
+div{
+	width: 100%;
+}
+
