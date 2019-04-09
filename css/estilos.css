@@ -81,6 +81,17 @@ header nav ul li:hover {
 header nav ul li a:hover{
 	color:  #F0B429;
 }
+
+
+header nav li ul{
+	display: none;
+	
+}
+
+header nav li:hover > ul{
+	display:block;
+}
+
 .texto {
 color: #fff;
 position: relative;
@@ -90,13 +101,7 @@ font-weight: 400;
 
 }
 
-header nav li ul{
-	display: none;
-}
 
-header nav li:hover > ul{
-	display:block;
-}
 
 .texto h2, .texto p {
 
