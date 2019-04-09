@@ -78,7 +78,6 @@ header nav ul li:hover {
 	border-bottom: inset 5px solid #fff;
 
 }
-
 header nav ul li a:hover{
 	color:  #F0B429;
 }
@@ -90,6 +89,15 @@ text-align: center;
 font-weight: 400;
 
 }
+
+header nav li ul{
+	display: none;
+}
+
+header nav li:hover > ul{
+	display:block;
+}
+
 .texto h2, .texto p {
 
 	display: inline-block;
