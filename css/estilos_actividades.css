@@ -1,0 +1,164 @@
+*{
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizzing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body
+{
+	font-family:oswald, helvetica, arial, sans-serif;
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: #2783e5;
+}
+
+body .background {
+	z-index: 0;
+	opacity: 0.4;
+    filter: alpha(opacity=40); 
+	background-color:rgba(0,0,0,0.3);
+
+}
+.contenedor {
+	width: 95%;
+	max-width: 1000px;
+	margin: auto;
+	background-color: #005883 ;
+	
+}
+#particles-js {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	*background:rgba(0,0,0,.8);
+}
+header {
+ position: relative;
+ height: auto;
+ background-color: #005883;
+
+}
+header .menu {
+	background: rgb(255,255,255,.7);
+	overflow: hidden;
+	background-color:   #005883;
+}
+header .logo {
+	color: rgba(0,0,0,.8);
+	float: left;
+	font-size: 100px;
+	line-height: 10px;
+	width: 100px;
+	padding: 0px;
+	
+}
+header nav {
+	float: right;
+}
+
+header nav ul {
+	list-style: none;
+
+}
+header nav ul li {
+	float: left;
+}
+header nav ul li a {
+	color: rgba(0,0,0,.8);
+	text-decoration: none;
+	display: block;
+	font-size: 18px;
+	padding: 0 20px;
+	line-height: 30px;
+
+}
+header nav ul li:hover {
+	background: rgba(255,255,255,255);
+	border-bottom: inset 5px solid #fff;
+
+}
+header nav ul li a:hover{
+	color:  #F0B429;
+}
+.texto {
+color: #fff;
+position: relative;
+padding: 50px 0;
+text-align: center;
+font-weight: 400;
+
+}
+
+header nav li ul{
+	display: none;
+}
+
+header nav li:hover > ul{
+	display:block;
+}
+
+.texto h2, .texto p {
+
+	display: inline-block;
+	padding: 10px 20px;
+
+}
+.texto h2 {
+	font-size: 40px;
+	letter-spacing: 2.5px;
+	font-weight: normal;
+}
+.texto p {
+	font-size:  20px;
+	letter-spacing: 2.5px;
+}
+.principal {
+	position: relative;
+	color: #000;
+
+}
+.principal article {
+	padding: 20px;
+	background: #fff;
+	margin-bottom: 20px;
+
+}
+.principal article p {
+	margin-bottom:  20px;
+	line-height: 24px;
+	font-family: helvetica, arial, sans-serif;
+
+}
+.principal article .fecha {
+	color: #939393;
+}
+article .googlemap
+{
+	width:20%;
+	height:100px;
+	text-align: right;
+	display:block;
+	margin:auto;
+}
+
+
+
+header .contador
+{
+	float: right;
+}
+
+header a {
+	float: right;
+
+
+}
+
+div{
+	width: 100%;
+}
+h1{
+	text-align: left;
+
+}
