@@ -81,17 +81,6 @@ header nav ul li:hover {
 header nav ul li a:hover{
 	color:  #F0B429;
 }
-
-
-header nav li ul{
-	display: none;
-	
-}
-
-header nav li:hover > ul{
-	display:block;
-}
-
 .texto {
 color: #fff;
 position: relative;
@@ -101,7 +90,13 @@ font-weight: 400;
 
 }
 
+header nav li ul{
+	display: none;
+}
 
+header nav li:hover > ul{
+	display:block;
+}
 
 .texto h2, .texto p {
 
@@ -138,6 +133,14 @@ font-weight: 400;
 .principal article .fecha {
 	color: #939393;
 }
+article .googlemap
+{
+	width:20%;
+	height:100px;
+	text-align: right;
+	display:block;
+	margin:auto;
+}
 header .contador
 {
 	float: right;
@@ -152,4 +155,7 @@ header a {
 div{
 	width: 100%;
 }
+h1{
+	text-align: left;
 
+}

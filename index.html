@@ -12,9 +12,12 @@
 	<link rel="stylesheet" type="text/css" href="css/estilosbarrasocial.css">
 	<link rel="stylesheet" type="text/css" href="css/fonts.css">
 	<!--iconos y barra social-->
-
+	<link rel="stylesheet" href="css/estilosformulario.css">
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+		
 
 </head>
+
 
 <body background="img/fondo.jpg">
 
@@ -50,12 +53,12 @@
 			</div>
 			<nav>
 				<ul>
-					<li><a href="#">INICIO</a></li>
+					<li><a href="#">INICIO</a></li> <a href="https://www.contadorvisitasgratis.com" title="contador de visitas"><img src="https://counter6.allfreecounter.com/private/contadorvisitasgratis.php?c=q9r6rx5a7q5m69sp1f336uwfl8y6rs6a" border="0" title="contador de visitas" alt="contador de visitas"></a>
 					<li><a href="lecturas.html">LECTURAS</a></li>
 					<li><a href="multimedia.html">MULTIMEDIA</a>
 
 						<ul>
-							<li><a href="multimedia2.html">Multimedia 2</a></li>
+							<li><a href="multimedia2.html">Multimedia</a></li>
 						</ul>
 
 					</li>
@@ -108,7 +111,82 @@
 	<p>Introducción a HTML5, Estructura básica de HTML5, Aplicación de elementos de HTML5 a un proyecto de diseño Web, introducción a CSS3, Estructura básica de CSS3, Aplicación de elementos de CSS3 a un proyecto de diseño Web.</p>
 	
 </article>
-</div>
+
+<div class="contenedor-formulario">
+		<div class="wrap">
+			<div class="contactenos">
+				CONTACTENOS				
+			</div>
+				
+			
+			<form action="" class="formulario" name="formulario_registro" method="get">
+				<!--titulo y espacio-->
+
+				
+                <!--title-->
+				<div class="input-group"> 
+					<input type="text" id="nombre" name="nombre">
+					<label for="nombre">Nombre:</label>
+
+				</div>
+				<div class="input-group"> 
+					<input type="email" id="email" name="email">
+					<label for="email">Correo:</label>
+						
+				</div>
+				<div class="input-group"> 
+					<input type="text" id="pass" name="pass">
+					<label for="pass">Celular:</label>
+						
+				</div>
+				<div class="input-group"> 
+					<input type="text" id="pass2" name="pass2">
+					<label for="pass2">Observacion</label>
+						
+				</div>
+				<div class="input-group">
+					
+                    <label for="autoriza">
+				    Autoriza recibir información:
+
+                    </label>
+				</div>
+
+				<!--botones tipo radio-->
+
+
+
+				<div class="input-group radio">
+					
+					<input type="radio" name="autoriza2" id="si" value="Si">
+					<label for="si">Si</label>	
+
+					<input type="radio" name="autoriza2" id="no" value="No">
+					<label for="no">No</label>					
+				</div>
+				<div class="input-group checkbox">
+					<input type="checkbox" name="terminos" id="terminos" value="true">
+					<label for="terminos">Acepto terminos y condiciones
+					</label>
+				</div>
+				<input type="submit" id="btn-submit" value="Enviar">
+
+				</form>
+		</div>
+	</div>
+
+	<!--google maps-->
+	
+
+     <div id="googlemap">
+     <h1>Ubicación</h1>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.9794091204185!2d-74.11096998485858!3d4.597711296659868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f993b2cd94705%3A0xe2d6a08b200ba0e!2sUNAD+Jos%C3%A9+Acevedo+Y+G%C3%B3mez!5e0!3m2!1ses!2sco!4v1554863035792!5m2!1ses!2sco" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<script src="librerias/formulario.js"></script>
+     </div>
+
+
+
+	<!--google maps-->
 
 
 <script src="http://code.jquery.com/jquery-latest.js"></script>
