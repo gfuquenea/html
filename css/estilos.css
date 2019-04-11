@@ -99,6 +99,13 @@ padding-bottom: 50px;
 
 
 }
+
+footer {
+color: #fff;
+text-align: center;
+font-weight: 200;
+}
+
 .nav li ul li ul {
 	right: 140px;
 	top: 0px;
