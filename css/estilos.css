@@ -171,3 +171,62 @@ h1{
 	text-align: left;
 
 }
+
+.menu_lecturas{
+	background: #fff;
+	padding: 1%;
+	margin-top: 3%;
+	position: relative;
+	width: 100%;
+}
+.enlaces_lectura{
+	color: rgba(0,0,0,.8);
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 18px;
+	width: 24%;
+}
+.enlaces_lectura:hover{
+	background: grey;
+	padding: 0.5% 0%;
+	color: white;
+}
+.texto_a{
+	display: inline-block;
+	margin: auto;
+	padding: 2%;
+	vertical-align: top;
+	width: 49%;
+	text-align: justify;
+}
+.texto_b{
+	display: block;
+	margin: auto;
+	padding: 2%;
+	width: 98%;
+	text-align: justify;
+}
+.img_a{
+	display: inline-block;
+	padding: 2%;
+	vertical-align: top;
+	width: 49%;
+}
+.img_b{
+	display: block;
+	padding: 2%;
+	width: 98%;
+}
+.img_lecturas{
+	display: block;
+	margin: auto;
+	width: 98%;
+}
+.img_large{
+	display: block;
+	margin: auto;
+	height: 375px;
+	width: 98%;
+}
