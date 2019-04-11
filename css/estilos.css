@@ -104,9 +104,11 @@ header nav li ul{
 	display: none;
 }
 
+
 header nav li:hover > ul{
 	display:block;
 }
+
 
 .texto h2, .texto p {
 
